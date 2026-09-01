@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Aanchal Gupta
 
-<!--
-**Aanchal1121/Aanchal1121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSIT Student**  
+💻 **Aspiring Software Developer | Backend Development Enthusiast**
 
-Here are some ideas to get you started:
+I'm a Computer Science & Information Technology student interested in building practical software solutions and improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+- Java
+- C++
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+### 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Backend Development
+- Git & GitHub
+
+### 🚀 Projects
+
+- 📦 **Inventory Management System**
+- 👥 **Smart Group Formation**
+- ✍️ **InkFlow – Blogging Platform**
+- 🤖 **AI Internship Advisor**
+
+### 📫 Connect With Me
+
+- 💼 LinkedIn: [Aanchal Gupta](https://www.linkedin.com/in/aanchal-gupta-b8b510377/)
