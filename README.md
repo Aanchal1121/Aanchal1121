@@ -13,7 +13,7 @@ I'm a Computer Science & Information Technology student interested in building p
 - SQL
 - HTML
 - CSS
-- JavaScript
+- My sql
 
  🌱 Currently Learning
 
