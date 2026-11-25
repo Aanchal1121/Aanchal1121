@@ -26,7 +26,6 @@ I'm a Computer Science & Information Technology student interested in building p
 - 📦 **Inventory Management System**
 - 👥 **Smart Group Formation**
 - ✍️ **InkFlow – Blogging Platform**
-- 🤖 **AI Internship Advisor**
 
  📫 Connect With Me
 
